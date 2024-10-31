@@ -1,0 +1,2 @@
+<?php
+//Silnce is golden
